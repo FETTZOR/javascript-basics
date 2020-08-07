@@ -1,6 +1,6 @@
 // in dynamic type can be changed
-let name = 'Mosh';
-let age = 30;
+let name = 'Emil';
+let age = 24;
 let isApproved = false;
 let firstName = undefined;
 let selectedColor = null;

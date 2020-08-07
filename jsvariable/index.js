@@ -1,5 +1,5 @@
 
-let name = 'Mosh';
+let name = 'Emil';
 console.log(name);
 
 // Cannot be a reserved keyword
@@ -9,5 +9,5 @@ console.log(name);
 // Are case-sensitive
 
 
-let firstName = 'Mosh'; 
-let lastName =  'Hame';
+let firstName = 'Emil'; 
+let lastName =  'Kh';

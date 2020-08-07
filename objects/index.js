@@ -3,8 +3,8 @@
 // let age = 30; no need eptaaa
 
 let person = {
-name: 'Mosh',
-age: 30
+name: 'Emil',
+age: 24
 };
 // Dot Notation
 person.name =  'John';
