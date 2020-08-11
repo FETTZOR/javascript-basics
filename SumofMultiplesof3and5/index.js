@@ -21,7 +21,7 @@ function sum(limit) {
 
 // }
 
-
+    
 
     // while(i <= 8) {
 // if (i % 3 !== 0) console.log(i);
